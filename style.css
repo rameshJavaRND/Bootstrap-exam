@@ -1,0 +1,109 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+header .bg-image{
+	background-image: url('image.png');
+	background-repeat:no-repeat;
+	background-size: cover;
+	height: 350px;
+}
+
+header .write{
+padding-top: 75px;
+color: #ffffff;/*white*/
+text-align: center;
+}
+
+header .headbutton {
+  background-color: #333333; 
+  border: 2px solid #454546; 
+  color: #ffffff;
+  padding: 15px 30px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+header .headbutton:hover {
+  background-color: #ddd;
+  color: #000000;
+}
+
+
+.row h3{
+	text-align: center;
+	padding-top: 30px;
+}
+
+
+.container .top p{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+
+.container-fluid .colr{
+	background-color:#333333;
+}
+
+.container-fluid .d-flex div{
+	background-color:#ffffff;
+}
+
+.container-fluid .d-flex h4{
+	text-align: center;
+	padding-top: 30px;
+}
+
+.container-fluid .d-flex p{
+	text-align: center;
+	padding-top: 20px;
+}
+
+.container-fluid .needs p{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+.container-fluid .contact .about h4{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+	color: #ffffff;
+}
+
+.container-fluid .contact{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+	color: #ffffff;
+	background-color:#2690d4;
+}
+
+.container-fluid .about{
+	padding-top: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+	color: #ffffff;
+	background-color:#333333;
+}
+
+.container-fluid .foot{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	color: #ffffff;
+	background-color: #000000;
+}
+
+.foot span{
+	color: #1a6da6;
+}
